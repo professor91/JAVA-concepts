@@ -1,0 +1,29 @@
+Precedence Order
+
+++ (postfix)    -- (postfix)
+
+++ (prefix)     -- (prefix)     ~       !       +(unary)    -(unary)    (type-cast)
+
+*               /               %
+
++               -
+
+>>              >>>             <<
+
+>               >=              <       <=      instanceof
+
+==              !=
+
+&
+
+^
+
+&&
+
+||
+
+?:
+
+->
+
+=               op=

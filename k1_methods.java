@@ -1,4 +1,4 @@
-public class k_methods{
+public class k1_methods{
     
     //method overloading
 // {
