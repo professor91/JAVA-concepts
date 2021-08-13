@@ -1,2 +1,2 @@
 # JAVA
-All the concepts of JAVA
+Concept codes for JAVA.
